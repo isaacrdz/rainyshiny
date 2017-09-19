@@ -43,7 +43,7 @@ class Forecast {
     
     
     
-    var lopTemp: String {
+    var lowTemp: String {
         if _lowTemp == nil {
             _lowTemp = ""
         }
